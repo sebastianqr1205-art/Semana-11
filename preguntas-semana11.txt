@@ -1,1 +1,8 @@
-
+¿Qué es una base de datos en una aplicación?
+B. Un sistema que permite almacenar y consultar información estructurada.
+¿Qué significa CRUD en programación?
+A. Crear, leer, actualizar y eliminar datos.
+¿Qué permite la autenticación de usuarios en una aplicación?
+B. Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+¿Por qué es importante proteger datos sensibles en una plataforma digital?
+B. Para evitar riesgos de privacidad o uso indebido de la información.
